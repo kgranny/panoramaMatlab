@@ -1,5 +1,5 @@
-%cmpt 361, assignment 2
-%by kyle granville
+% uses MatLab to recognize features between images and match side by side pictures and combine them into 1 panorama type photo
+% By kyle granville
 
 % phone camera aspect ratio is about 750:355
 % so images have been resized to that
